@@ -8,6 +8,7 @@ Source images and fonts for sign are attached.
 
 ## About Developing
 
+- As far as I know in you cannot give view only access in a Github Private repo, so I made it Public
 - Expected to be done in 2 hours, cause I had not worked with Pillow in this way before
 - Started on December 22 at 0:40 Bishkek time
 - Finished on December 22 at 1:40 Bishkek time
